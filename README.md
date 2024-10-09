@@ -1,29 +1,9 @@
-# Rsbuild Project
+# Reproduction:
 
-## Setup
+```shell
 
-Install the dependencies:
+deno install
 
-```bash
-pnpm install
-```
+deno task build
 
-## Get Started
-
-Start the dev server:
-
-```bash
-pnpm dev
-```
-
-Build the app for production:
-
-```bash
-pnpm build
-```
-
-Preview the production build locally:
-
-```bash
-pnpm preview
 ```
